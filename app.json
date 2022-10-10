@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cli",
+    "slug": "cli",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cli"
+}
