@@ -13,6 +13,8 @@ import SettOff from "./SettingDefault.png";
 import SearchOn from "./SearchActive.png";
 import SearchOff from "./SearchDefault.png";
 
+import Outline from './Outline.png';
+
 // ICON MENU
 import Cekpos from './iconMenu/cekpos.png';
 import Firm from './iconMenu/firm.png';
@@ -50,5 +52,7 @@ MSISDN,
 Nama,
 NIK,
 Transaksi,
+
+Outline,
 
 };
